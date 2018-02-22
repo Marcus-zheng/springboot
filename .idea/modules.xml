@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spirngBoot.iml" filepath="$PROJECT_DIR$/.idea/spirngBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-common/springboot-base/springboot-base.iml" filepath="$PROJECT_DIR$/springboot-common/springboot-base/springboot-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo-api/springboot-demo-api.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo-api/springboot-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo-model/springboot-demo-model.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo-model/springboot-demo-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo-service/springboot-demo-service.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo-service/springboot-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo-web/springboot-demo-web.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo-web/springboot-demo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-common/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-common/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-starter/springboot-starter.iml" filepath="$PROJECT_DIR$/springboot-starter/springboot-starter.iml" />
+    </modules>
+  </component>
+</project>

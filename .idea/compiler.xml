@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="springboot-base" />
+        <module name="springboot-demo-api" />
+        <module name="springboot-demo-model" />
+        <module name="springboot-demo-service" />
+        <module name="springboot-demo-web" />
+        <module name="springboot-redis" />
+        <module name="springboot-starter" />
+        <module name="starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="excalibur" target="1.8" />
+      <module name="springboot-base" target="1.6" />
+      <module name="springboot-demo-api" target="1.5" />
+      <module name="springboot-demo-model" target="1.5" />
+      <module name="springboot-demo-service" target="1.5" />
+      <module name="springboot-demo-web" target="1.5" />
+      <module name="springboot-redis" target="1.6" />
+      <module name="springboot-starter" target="1.8" />
+      <module name="starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
